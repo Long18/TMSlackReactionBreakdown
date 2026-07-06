@@ -6,7 +6,7 @@ Reaction details on Slack web — who reacted, emoji breakdown, copy **Mentions*
 
 Install [Tampermonkey](https://www.tampermonkey.net/), then click:
 
-[![Install with Tampermonkey](https://img.shields.io/badge/Install%20with-Tampermonkey-00485B?style=for-the-badge&logo=tampermonkey&logoColor=white)](https://www.tampermonkey.net/script_installation.php#url=https%3A%2F%2Fgithub.com%2FLong18%2FTMSlackReactionBreakdown%2Fraw%2Fdev%2Fslack-reaction-breakdown.user.js)
+[![Install with Tampermonkey](https://img.shields.io/badge/Install%20with-Tampermonkey-00485B?style=for-the-badge&logo=tampermonkey&logoColor=white)](https://github.com/Long18/TMSlackReactionBreakdown/raw/dev/slack-reaction-breakdown.user.js)
 
 Tampermonkey will ask to install — click **Install**.
 
