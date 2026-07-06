@@ -1,0 +1,13 @@
+{
+  "name": "tm-slack-reaction-breakdown",
+  "version": "3.1.0",
+  "private": true,
+  "description": "Tampermonkey userscript: Slack reaction breakdown with copy names/handles",
+  "scripts": {
+    "build": "esbuild src/index.js --bundle --format=iife --platform=browser --outfile=dist/slack-reaction-breakdown.js",
+    "watch": "npm run build -- --watch"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0"
+  }
+}
